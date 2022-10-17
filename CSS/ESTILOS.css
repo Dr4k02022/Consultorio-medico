@@ -1,0 +1,25 @@
+
+
+
+
+h1{
+    
+    font-size: 50px;
+}
+
+form{
+    width: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    text-align: left;
+}
+.label-form{
+    width: 100px;
+    display: inline-block;
+}
+.input-form{
+    width: 150px;
+    display: inline-block;
+
+}
