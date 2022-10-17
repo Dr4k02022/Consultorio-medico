@@ -24,5 +24,10 @@ form{
 
 }
 .boton-form{
-    background-color: grey;
+    background-color: white;
+}
+
+.boton-form:hover{
+    color: blue;
+
 }
