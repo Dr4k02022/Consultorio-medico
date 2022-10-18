@@ -3,7 +3,7 @@
 
 h1{
     
-    font-size: 50px;
+    font-size: 30px;
     background-color: blueviolet;
 }
 form{
@@ -26,6 +26,9 @@ form{
     height: 150%;
     
     
+}
+th ,td {
+    padding: 5px;
 }
 
 
