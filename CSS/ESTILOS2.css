@@ -1,0 +1,32 @@
+
+
+
+h1{
+    
+    font-size: 50px;
+    background-color: blueviolet;
+}
+form{
+    background-color: white;
+    width: 50%;
+    text-size-adjust: 500px;
+
+}
+.boton-form{
+    background-color:burlywood;
+    width: 25%;
+}
+.boton-form:hover{
+    color: blue;
+
+}
+.input-form{
+    width: 150px;
+    display: inline-block;
+    height: 150%;
+    
+    
+}
+
+
+
