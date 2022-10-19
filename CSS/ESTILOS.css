@@ -4,7 +4,9 @@
 
 h1{
     
-    font-size: 50px;
+    font-size: 20px;
+    background-color: rgb(101, 226, 43);
+    width: 30%;
 }
 
 form{
