@@ -6,8 +6,24 @@ h1{
     width: 30%;
 }
 
-
-
+.label-form{
+    width: 10%;
+    display: inline-block;
+    
+    text-align: left;
+    
+    
+}
+.input-form{
+    width: 250px;
+    display: inline-block;
+}
 footer{
     text-align: center;
 }
+
+
+    
+
+
+
