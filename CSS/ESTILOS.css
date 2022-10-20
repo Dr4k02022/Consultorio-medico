@@ -35,6 +35,10 @@ form{
 }
 
 footer{
-    text-align: center;
+    font-size: small;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:cornflowerblue;
+    text-align: center;  
     
 }
