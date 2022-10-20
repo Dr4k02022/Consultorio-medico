@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CENTRO MEDICO G 22</title>
     <link rel="stylesheet" href="CSS/ESTILOS3.css">
+    
 </head>
 
 
@@ -37,6 +38,7 @@
 
                 <form>
                     <input class="boton-form" type="submit" value="CITAS MEDICAS"  /> 
+                    <input class="boton-form" type="submit" value="ATENCION USUARIO" />
                 
                 
                     <br /><br />
@@ -55,14 +57,19 @@
                     <label class="label-form" id="label_direccion" for="direccion">Direccion </label>
                     <input class="input-form" id="direccion" type="text" required="true" size="50px" maxlength="12" />
                     <br /><br />
-                    <label class="label-form" id="label_genero" for="genero">Genero </label>
-                    <input class="input-form" id="genero" type="text" required="true" size="50px" maxlength="12" />
+                    <label id="genero">Genero</label>
+                    <label id="Masculino">Masculino</label>
+                    <input type="radio" name="genero" value="Masculino">
+                    
+                    <label id="Femenino">Femenino</label>
+                    <input type="radio" name="genero" value="Femenino">
+
                     <br /><br />
                     <label class="label-form" id="label_categoria eps" for="categoria eps">Categoria EPS </label>
                     <input class="input-form" id="genero" type="text" required="true" size="50px"  maxlength="12" />
                     <br /><br />
                     <label class="label-form" id="label_diagnostico_medico" for="diagnostico_medico">Diagnostico medico </label>
-                    <input class="input-form" id="diagnostico_medico" type="text" required="true" size="50px"  maxlength="45" height="300px" />
+                    <textarea id="Diagnostico" cols="50" rows="5" required></textarea>
 
                     
                  
@@ -92,6 +99,10 @@
         </center>
     <footer>
         &COPY;SERVICIOS DE SALUD DE MEDICINA GENERAL
+        
+
+        
+
 
     </footer>
     
