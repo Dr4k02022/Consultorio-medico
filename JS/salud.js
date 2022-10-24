@@ -1,0 +1,2 @@
+alert("Cuida tu salud");
+
